@@ -1,0 +1,2 @@
+# JavaScriptObjects
+Objects, prototypes, and classes are extensively used in JavaScript programming. Understanding each of them beyond a surface level will help you more deeply understand the foundations of JavaScript. In this course, JavaScript Objects, Prototypes, and Classes, you will learn the foundations of creating and working with objects including a deeper understanding of how JavaScript works with regards to objects and inheritance. ......... more
